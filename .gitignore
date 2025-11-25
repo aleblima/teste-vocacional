@@ -1,0 +1,26 @@
+git# Ignorar credenciais sensíveis
+service_account.json
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs e dados locais
+*.log
+*.sqlite3
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Arquivos de ambiente
+.env
+
+node_modules
